@@ -1,4 +1,4 @@
-package LabWeek3;
+package LabWeek03;
 
 public class Date
 {
